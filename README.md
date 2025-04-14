@@ -1,4 +1,4 @@
-🛡️ My Security Blog
+# 🛡️ My Security Blog
 Welcome to my personal security blog — a space where I document and share my journey in cybersecurity. This blog is a growing archive of my hands-on experiences, technical deep dives, and continuous learning across various areas in the field, including:
 
 🔍 Capture The Flag (CTF) walkthroughs
